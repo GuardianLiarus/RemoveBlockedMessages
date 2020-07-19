@@ -1,0 +1,12 @@
+/**
+
+ * @name RemoveBlockedMessages
+ * @version 1.0
+ * @description Remove blocked users from your chat
+ * @authorId 110428024591118336
+ * @author Liarus
+
+**/
+div[class^="groupStart-23k01U"] {
+    display: none;
+}
